@@ -10,3 +10,4 @@
   以上放的是公众号文章链接，知乎专栏也有相同的文章
   
 ### 欢迎大家关注公众号 & 知乎专栏 ： 算法人生
+  ![二维码](https://github.com/talorwu/Graph-Neural-Network-Review/blob/master/suanfarensheng.jpeg)
